@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notify battery</string>
+    <string name="button_active_notify">Notificador de bateria</string>
+    <string name="label_low_battery">Batería baja!!</string>
+    <string name="text_low_battery">La aplicación no continuara trabajando si no pone a cargar su teléfono celular</string>
+</resources>
